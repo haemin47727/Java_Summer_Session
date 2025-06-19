@@ -157,18 +157,29 @@ switch (day) {
 ## Quiz Questions
 
 1. **What is the correct entry point for a Java program?**
+all Java applications start with the `main()` method
 
 2. **What command is used to print output in Java?**
+System.out.println("hello world");
 
 3. **What is the size of an `int` in Java?**
 
 4. **What are four common primitive data types in Java?**
+byte, short, int, long
 
 5. **What is type casting in Java?**
+changing one data type to another 
+explicit conversion (requires casting) & implicit conversion (happens automatically)
 
 6. **What are the arithmetic operators in Java?**
++, -, *, /, %
 
-7. **What is the result of casting `double d = 9.8; int i = (int) d;`?**
+7. **What is the result of casting 
+```java
+// double d = 9.8; 
+// int i = (int) d; // result is 9 (loss of precision)
+```
+
 
 8. **Which class do we use to get user input from the console?**
 
