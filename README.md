@@ -87,7 +87,7 @@ Welcome to your official course repository for the **Java Summer Session**, host
 
 Happy coding, and welcome to the world of Java!
 
-– The CodingNomads Team
+– The CodingNomads Team!
 
 ---
 
