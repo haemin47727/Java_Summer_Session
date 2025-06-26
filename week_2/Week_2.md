@@ -47,6 +47,12 @@ do {
 
 ---
 
+### Debugger
+
+Discussion on using the debugger.
+
+---
+
 ### Arrays
 
 ```java
@@ -81,17 +87,26 @@ System.out.println(list.size());  // 1
 ## Quiz Questions
 
 1. **What does the `%` operator do?**
+* it returns the remainder of a division operation
 
-2. **What is the output of `while(false)`?**
+2. **What is the result of `while(false)`?**
+* this loop will not run - only runs when condition is true
 
 3. **Which loop executes at least once, even if the condition is false?**
+* do-while loop will always execute the body of the loop at least once
 
 4. **What’s the default value of an uninitialized `int` array element?**
+* zero - the default value of an int primitive is zero
 
 5. **What’s the key difference between an array and an ArrayList?**
+* 
 
 6. **What does `break` do inside a loop or switch statement?**
+* it will immediately exit the loop or switch and go to the next line of code
+outside/below the loop (or switch)
 
+7. **What does `continue` do inside a loop?**
+* `continue` will send the flow of execution directly back to the beginning of the loop
 ---
 
 ## Coding Challenges
