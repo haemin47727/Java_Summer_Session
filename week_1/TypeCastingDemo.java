@@ -22,6 +22,9 @@ public class TypeCastingDemo {
         // need to explicitly cast this int "i" into the short "s2"
         s2 = (short) i;
 
+        long l = 122344l;
+        float f = l;
+
 
         System.out.println(s);
 
